@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TextDrawer/static/css/main.e6c13ad2.css",
+    "main.js": "/TextDrawer/static/js/main.6c4b960f.js",
+    "static/media/avatar.jpg": "/TextDrawer/static/media/avatar.7f5440993b4511b53ad1.jpg",
+    "index.html": "/TextDrawer/index.html",
+    "main.e6c13ad2.css.map": "/TextDrawer/static/css/main.e6c13ad2.css.map",
+    "main.6c4b960f.js.map": "/TextDrawer/static/js/main.6c4b960f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6c4b960f.js"
+  ]
+}
